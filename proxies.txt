@@ -1,0 +1,3 @@
+socks5://ip:port and http(s)://ip:port
+
+You must use this format
