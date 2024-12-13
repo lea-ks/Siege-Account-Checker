@@ -1,0 +1,7 @@
+aiohttp
+aiohttp-socks
+asyncio
+base64
+random
+ssl
+colorama
